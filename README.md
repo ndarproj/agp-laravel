@@ -1,4 +1,6 @@
-# Axie gene parser for PHP
+# Axie gene parser for Laravel
+
+Vanilla PHP Package: [agp-php](https://github.com/ndarproj/agp-php)
 
 This is a port of the Javascript version of a plugin, you can find it here: [agp-npm](https://github.com/ShaneMaglangit/agp-npm)
 
