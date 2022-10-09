@@ -16,7 +16,7 @@ Composer, PHP 8.0 or later.
 Install using Composer:
 
 ```
-composer require ndarproj/agp-php
+composer require ndarproj/agp-laravel
 ```
 
 ## Usage
